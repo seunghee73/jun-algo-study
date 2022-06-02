@@ -1,3 +1,4 @@
+# 시간초과
 import sys
 input = sys.stdin.readline
 
