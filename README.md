@@ -42,3 +42,45 @@
   * 소스코드는 `{문제번호}_{닉네임}.확장자명`으로 작성한다.
 
 ## 진행 상황
+
+- 0602 [백준 2457. 공주님의 정원](https://www.acmicpc.net/problem/2457) (그리디)  
+
+  
+
+- 0603 [백준 1041. 주사위](https://www.acmicpc.net/problem/1041) (그리디)  
+
+  
+
+- 0607 [백준 2671. 잠수함식별](https://www.acmicpc.net/problem/2671) (정규 표현식)  
+
+  
+
+- 0608 [백준 3109. 빵집](https://www.acmicpc.net/problem/3109) (그리디, 그래프)  
+
+  
+
+- 0609 [백준 10836. 여왕벌](https://www.acmicpc.net/problem/10836) (구현)  
+
+  
+
+- 0610 [백준 1013. Contact](https://www.acmicpc.net/problem/1013) (정규 표현식)  
+
+  
+
+- 0613 [백준 8972. 미친 아두이노](https://www.acmicpc.net/problem/8972) (구현)  
+
+  
+
+- 0614 [백준 16500. 문자열 판별](https://www.acmicpc.net/problem/16500) (DP)  
+
+  
+
+- 0615 [백준 5427. 불](https://www.acmicpc.net/problem/5427) (그래프)  
+
+  
+
+- 0616 [백준 2234. 성곽](https://www.acmicpc.net/problem/2234) (그리디)  
+
+  
+
+- 0617 [백준 3055. 탈출](https://www.acmicpc.net/problem/3055) (그래프)  
