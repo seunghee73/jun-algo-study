@@ -83,4 +83,40 @@
 
   
 
-- 0617 [백준 3055. 탈출](https://www.acmicpc.net/problem/3055) (그래프)  
+- 0617 [백준 3055. 탈출](https://www.acmicpc.net/problem/3055) (그래프)    
+
+  
+
+- 0620 [백준 4889. 안정적인 문자열](https://www.acmicpc.net/problem/4889) (그리디, 스택)    
+
+  
+
+- 0621 [백준 2473. 세용액](https://www.acmicpc.net/problem/2473) (이분탐색, 투포인터)    
+
+  
+  
+- 0622 [백준 14925. 목장 건설하기](https://www.acmicpc.net/problem/14925) (DP)    
+
+  
+
+- 0623 [백준 1082. 방 번호](https://www.acmicpc.net/problem/1082) (DP, 그리디)    
+
+  
+
+- 0624 [백준 9177. 단어 섞기](https://www.acmicpc.net/problem/9177) (DP, 그리디)    
+
+  
+  
+- 0627 [백준 9081. 단어 맞추기](https://www.acmicpc.net/problem/9081) (수학, 구현)  
+
+
+
+- 0628 [백준 5052. 전화번호 목록](https://www.acmicpc.net/problem/5052) (정렬, 트라이)    
+
+  
+
+- 0629 [백준 1941. 소문난칠공주](https://www.acmicpc.net/problem/1941) (그래프)    
+
+  
+
+- 0630 [백준 7490. 0 만들기](https://www.acmicpc.net/problem/7490) (파싱, 백트래킹)    
